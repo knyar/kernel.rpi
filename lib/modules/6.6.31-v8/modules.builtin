@@ -173,6 +173,8 @@ kernel/drivers/pci/controller/pci-aardvark.ko
 kernel/drivers/pci/controller/pci-host-common.ko
 kernel/drivers/pci/controller/pci-host-generic.ko
 kernel/drivers/pci/controller/pcie-brcmstb.ko
+kernel/drivers/video/backlight/backlight.ko
+kernel/drivers/video/backlight/lp855x_bl.ko
 kernel/drivers/video/fbdev/core/fb.ko
 kernel/drivers/video/fbdev/core/cfbfillrect.ko
 kernel/drivers/video/fbdev/core/cfbcopyarea.ko
@@ -312,6 +314,7 @@ kernel/drivers/gpu/drm/tegra/tegra-drm.ko
 kernel/drivers/gpu/drm/meson/meson-drm.ko
 kernel/drivers/gpu/drm/meson/meson_dw_hdmi.ko
 kernel/drivers/gpu/drm/meson/meson_dw_mipi_dsi.ko
+kernel/drivers/gpu/drm/panel/panel-simple.ko
 kernel/drivers/gpu/drm/bridge/display-connector.ko
 kernel/drivers/gpu/drm/bridge/adv7511/adv7511.ko
 kernel/drivers/gpu/drm/bridge/synopsys/dw-hdmi.ko

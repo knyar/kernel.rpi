@@ -48,6 +48,9 @@ alias jitterentropy_rng jitterentropy_rng
 alias crypto-ecdh ecdh_generic
 alias ecdh ecdh_generic
 alias xen-backend:pci xen_pciback
+alias of:N*T*Cpanel-mipi-dbi-spiC* panel_mipi_dbi
+alias of:N*T*Cpanel-mipi-dbi-spi panel_mipi_dbi
+alias spi:panel-mipi-dbi-spi panel_mipi_dbi
 alias of:N*T*Camlogic,g12a-mdio-muxC* mdio_mux_meson_g12a
 alias of:N*T*Camlogic,g12a-mdio-mux mdio_mux_meson_g12a
 alias of:N*T*Camlogic,gxl-mdio-muxC* mdio_mux_meson_gxl

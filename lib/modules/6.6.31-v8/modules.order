@@ -8,6 +8,8 @@ kernel/crypto/ecdh_generic.ko
 kernel/drivers/xen/xen-pciback/xen-pciback.ko
 kernel/drivers/xen/xen-gntdev.ko
 kernel/drivers/xen/xen-gntalloc.ko
+kernel/drivers/gpu/drm/tiny/panel-mipi-dbi.ko
+kernel/drivers/gpu/drm/drm_mipi_dbi.ko
 kernel/drivers/net/mdio/mdio-mux.ko
 kernel/drivers/net/mdio/mdio-mux-meson-g12a.ko
 kernel/drivers/net/mdio/mdio-mux-meson-gxl.ko
